@@ -1,1 +1,0 @@
-# SWAPI-Echo-Base-crawler
