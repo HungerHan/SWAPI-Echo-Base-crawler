@@ -1,9 +1,4 @@
-# SI 506 SWAPI Echo Base Assignment
-
-### Release Date: Tuesday, 26 November 2019, 4:00 PM
-
-### Due Date: Monday, 16 December, 11:59 PM (no late submissions accepted) 
-
+# SWAPI Echo Base
 ## 1.0 The mission
 Rebel Alliance Intelligence has detected the presence of Imperial probe 
 [droids](https://starwars.fandom.com/wiki/Probe_droid/Legends) in the Hoth system. The Rebel
